@@ -2,6 +2,7 @@
 # ItemVerse
 
 A modern web application for managing and showcasing personal item collections built with React, TypeScript, and Tailwind CSS.
+
 ▶️▶️▶️ Live Demo - https://item-verse.vercel.app/
 
 ## Author
