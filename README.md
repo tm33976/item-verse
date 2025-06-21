@@ -301,10 +301,10 @@ toast.error('Please fill in all required fields');
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/tm33976/item-verse.git
 
 # Navigate to project directory
-cd itemverse
+cd item-verse
 
 # Install dependencies
 npm install
